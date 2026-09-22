@@ -3,3 +3,5 @@
 Public, non-sensitive artwork used by private Google Chat bots.
 
 Stinson Beach: generated coastal cabin, headland, wave and sun icon. No property photograph, address or private account data. Generated with the built-in image tool on 2026-09-18.
+
+Systems: three stacked machines (one per Mac in the fleet) under the family sun, over sage hills. Drawn as SVG (systems.svg) in the Stinson palette and rendered to systems.png at 1024 px. No private data. Made 2026-09-22.

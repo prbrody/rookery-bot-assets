@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#135E6E"/>
+  <!-- sun, clear of the stack, the Stinson family mark -->
+  <circle cx="742" cy="262" r="112" fill="#EF7D57"/>
+  <!-- sage hills, as in the Stinson icon -->
+  <path d="M0 760 C 180 700, 330 690, 470 728 S 780 800, 1024 720 L1024 1024 L0 1024 Z" fill="#4E7A5E"/>
+  <path d="M0 850 C 220 800, 420 820, 600 860 S 880 900, 1024 860 L1024 1024 L0 1024 Z" fill="#3B5E48"/>
+  <!-- three machines, one per Mac. Each: shade band, then face. -->
+  <g transform="translate(472 557) scale(1.12) translate(-472 -557) translate(8 -6)">
+    <rect x="232" y="656" width="480" height="150" rx="30" fill="#A87A45"/>
+    <rect x="232" y="656" width="480" height="126" rx="30" fill="#E8C08A"/>
+    <circle cx="302" cy="719" r="20" fill="#EF7D57"/>
+    <rect x="546" y="709" width="118" height="20" rx="10" fill="#A87A45"/>
+
+    <rect x="232" y="482" width="480" height="150" rx="30" fill="#2E5A44"/>
+    <rect x="232" y="482" width="480" height="126" rx="30" fill="#6E9A78"/>
+    <circle cx="302" cy="545" r="20" fill="#FBF1E1"/>
+    <rect x="546" y="535" width="118" height="20" rx="10" fill="#2E5A44"/>
+
+    <rect x="232" y="308" width="480" height="150" rx="30" fill="#CDBB9C"/>
+    <rect x="232" y="308" width="480" height="126" rx="30" fill="#FBF1E1"/>
+    <circle cx="302" cy="371" r="20" fill="#2E7F8F"/>
+    <rect x="546" y="361" width="118" height="20" rx="10" fill="#CDBB9C"/>
+  </g>
+</svg>
